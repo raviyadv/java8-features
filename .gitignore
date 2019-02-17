@@ -1,0 +1,4 @@
+#Ignore all files
+*.idea/
+**/java8-features.iml
+**/out/
